@@ -11,7 +11,7 @@ typescript 기반 react web template이다.
 - prettier
 
 
-#설치
+## 설치
 ```
 yarn create react-app <YOUR_PROJECT> --template kansin88/cra-template-typescript-web
 ```
